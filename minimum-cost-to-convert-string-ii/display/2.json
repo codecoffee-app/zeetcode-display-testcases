@@ -1,0 +1,1 @@
+{"id":"2","display":[{"label":"source","value":"\"abcdefgh\""},{"label":"target","value":"\"acdeeghh\""},{"label":"original","value":"[\"bcd\",\"fgh\",\"thh\"]"},{"label":"changed","value":"[\"cde\",\"thh\",\"ghh\"]"},{"label":"cost","value":"[1,3,5]"}]}
