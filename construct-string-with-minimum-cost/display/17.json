@@ -1,0 +1,1 @@
+{"id":"17","display":[{"label":"target","value":"\"a\""},{"label":"words","value":"[\"bbc\",\"b\",\"acc\",\"bc\",\"ccc\",\"cc\",\"ac\",\"aac\",\"abc\",\"ac\",\"aabbcccc\",\"bc\",\"aabcc\",\"a\",\"c\",\"a\",\"aaaabccc\",\"bccccccc\",\"abc\",\"bcccc\"]"},{"label":"costs","value":"[1,1,1,10000,10000,10000,1,10000,1,1,10000,1,1,10000,1,10000,1,1,1,10000]"}]}
