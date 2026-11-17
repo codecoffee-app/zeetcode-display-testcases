@@ -1,0 +1,1 @@
+{"id":"29","display":[{"label":"expression","value":"\"(let a1 (let z (mult -1 -1) a1 -1 b2 (mult -2 2) (add 1 b2)) y (let y (let y a1 a1) (mult a1 a1)) z (let z (add a1 -2) b2 z (add -3 0)) (let a1 (let y 2 a1) y (add 2 3) z (mult y a1) (let a1 -3 b2 1 y 1 z)))\""}]}

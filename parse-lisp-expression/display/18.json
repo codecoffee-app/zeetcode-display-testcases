@@ -1,0 +1,1 @@
+{"id":"18","display":[{"label":"expression","value":"\"(let a1 (add (let a1 0 x -2 a1 1 2) 2) a1 (let x 3 z (mult a1 x) (mult -2 -2)) (mult (mult a1 a1) (add a1 a1)))\""}]}
